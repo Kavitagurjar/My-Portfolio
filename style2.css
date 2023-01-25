@@ -1,0 +1,16 @@
+h1
+{
+   
+    font-size: 30px;
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+table {
+    border-color:blue; background-color: skyblue;
+}
+th{
+    background-color:rgb(103, 103, 194)
+}
+
